@@ -12,7 +12,7 @@ Open source programming algorithms
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, acmbvp is the owner of the Hacktoberfest repository, so the GitHub URL for this project is:
 
-https://github.com/SanjayDevTech/Code-with-love
+https://github.com/codewithkurund/Code-with-love
 
 
 When you’re on the main page of a repository, you’ll see a button to "Star" and “Fork” the repository on the upper right-hand side of the page, underneath your user icon.
@@ -24,13 +24,13 @@ To make your own local copy of the repository you would like to contribute to, l
 We’ll use the `git clone`  command along with the URL that points to your fork of the repository.
 
 This URL will be similar to the URL above, except now it will end with `.git.` The URL will look like this:
-https://github.com/your-username/Code-with-love.git
+https://github.com/codewithkurund/Code-with-love.git
 
 You can alternatively copy the URL by using the green “Clone or download” button from your repository page that you just forked from the original repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL.
 
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
 
-`git clone https://github.com/your-username/Code-with-love.git`
+`git clone https://github.com/codewithkurund/Code-with-love.git`
 
 
 ### 3. Create a New Branch
