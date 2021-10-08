@@ -1,7 +1,8 @@
-// Run as gcc hello_world.c then ./a.out
+// Run as c hello_world.c then ./a.out
 #include<stdio.h>
+#include<conio.h>
 int main() {
-	printf("Hello, World!\n");
-	
+	printf("\nHello, World");
+	getch();
 	return 0;
 }
